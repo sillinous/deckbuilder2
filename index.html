@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magic the Gathering AI Deck Builder</title>
+    <link rel="stylesheet" href="/src/style.css">
+</head>
+<body class="dark-theme">
+    <div id="app">
+        <header>
+            <h1>MTG AI Deck Builder</h1>
+            <p class="subtitle">Powered by NotebookLM Intelligence</p>
+        </header>
+
+        <main>
+            <section class="controls glass">
+                <div class="input-group">
+                    <label for="mission">Mission Statement</label>
+                    <input type="text" id="mission" placeholder="e.g., Aggro - fast pressure" value="Aggro - fast pressure and valiant triggers">
+                </div>
+                <div class="input-group">
+                    <label for="core-cards">Core Cards (comma separated)</label>
+                    <textarea id="core-cards" rows="4">Heartfire Hero, Manifold Mouse, Monstrous Rage, Screaming Nemesis, Hired Claw, Might of the Meek, Emberheart Challenger, Witchstalker Frenzy, Rockface Village</textarea>
+                </div>
+                <button id="generate-btn" class="primary-btn">Generate & Refine Deck</button>
+            </section>
+
+            <section id="results" class="results-area hidden">
+                <div class="stats-grid">
+                    <div class="stat-card glass">
+                        <span class="label">Win Rate</span>
+                        <span id="winrate-val" class="value">--%</span>
+                    </div>
+                    <div class="stat-card glass">
+                        <span class="label">Lands</span>
+                        <span id="lands-val" class="value">--</span>
+                    </div>
+                </div>
+
+                <div class="advice-box glass">
+                    <h3>Assistant Strategic Advice</h3>
+                    <p id="assistant-text">Loading insights...</p>
+                </div>
+
+                <div class="deck-list-container glass">
+                    <div class="list-header">
+                        <h3>Final Decklist (MTGA)</h3>
+                        <button id="copy-btn">Copy</button>
+                    </div>
+                    <pre id="decklist-output"></pre>
+                </div>
+            </section>
+        </main>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+</body>
+</html>
