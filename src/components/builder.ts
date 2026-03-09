@@ -20,9 +20,11 @@ export class Builder {
      * Takes 9 core cards and returns a basic deck structure with 24 lands.
      */
     static buildRuleOf9(coreCards: string[], mission: string): Deck {
-        const mainboard: Card[] = coreCards.map(name => ({
+        const mainboard: Card[] = coreCards.map((name, index) => ({
             name,
-            quantity: 4
+            quantity: 4,
+            manaValue: (index % 4) + 1, // Mock CMC for visualization
+            colors: ["R"] // Mock color
         }));
 
         // Default placeholder for lands

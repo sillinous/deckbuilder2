@@ -7,41 +7,62 @@
     <link rel="stylesheet" href="/src/style.css">
 </head>
 <body class="dark-theme">
-    <div id="app">
-        <header>
-            <h1>MTG AI Deck Builder</h1>
-            <p class="subtitle">Powered by NotebookLM Intelligence</p>
-        </header>
+    <div id="app" class="layout-container">
+        <aside class="sidebar glass">
+            <h2>My Decks</h2>
+            <ul id="saved-decks-list">
+                <!-- Saved decks will be injected here -->
+            </ul>
+            <button id="new-deck-btn" class="secondary-btn"> + New Deck</button>
+        </aside>
 
-        <main>
-            <section class="controls glass">
-                <div class="input-group">
-                    <label for="mission">Mission Statement</label>
-                    <input type="text" id="mission" placeholder="e.g., Aggro - fast pressure" value="Aggro - fast pressure and valiant triggers">
-                </div>
-                <div class="input-group">
-                    <label for="core-cards">Core Cards (comma separated)</label>
-                    <textarea id="core-cards" rows="4">Heartfire Hero, Manifold Mouse, Monstrous Rage, Screaming Nemesis, Hired Claw, Might of the Meek, Emberheart Challenger, Witchstalker Frenzy, Rockface Village</textarea>
-                </div>
-                <button id="generate-btn" class="primary-btn">Generate & Refine Deck</button>
-            </section>
+        <div class="main-content">
+            <header>
+                <h1>MTG AI Deck Builder</h1>
+                <p class="subtitle">Competitive Strategy & Evolution</p>
+            </header>
 
-            <section id="results" class="results-area hidden">
-                <div class="stats-grid">
-                    <div class="stat-card glass">
-                        <span class="label">Win Rate</span>
-                        <span id="winrate-val" class="value">--%</span>
+            <main>
+                <section class="controls glass">
+                    <div class="input-group">
+                        <label for="mission">Mission Statement</label>
+                        <input type="text" id="mission" placeholder="e.g., Aggro - fast pressure" value="Aggro - fast pressure and valiant triggers">
                     </div>
-                    <div class="stat-card glass">
-                        <span class="label">Lands</span>
-                        <span id="lands-val" class="value">--</span>
+                    <div class="input-group">
+                        <label for="core-cards">Core Cards (comma separated)</label>
+                        <textarea id="core-cards" rows="4">Heartfire Hero, Manifold Mouse, Monstrous Rage, Screaming Nemesis, Hired Claw, Might of the Meek, Emberheart Challenger, Witchstalker Frenzy, Rockface Village</textarea>
                     </div>
-                </div>
+                    <div class="button-row">
+                        <button id="generate-btn" class="primary-btn">Generate & Refine</button>
+                        <button id="save-btn" class="secondary-btn">Save Current</button>
+                    </div>
+                </section>
 
-                <div class="advice-box glass">
-                    <h3>Assistant Strategic Advice</h3>
-                    <p id="assistant-text">Loading insights...</p>
-                </div>
+                <section id="results" class="results-area hidden">
+                    <div class="stats-grid">
+                        <div class="stat-card glass">
+                            <span class="label">Win Rate</span>
+                            <span id="winrate-val" class="value">--%</span>
+                        </div>
+                        <div class="stat-card glass">
+                            <span class="label">Lands</span>
+                            <span id="lands-val" class="value">--</span>
+                        </div>
+                        <div class="stat-card glass full-width">
+                            <span class="label">Mana Curve</span>
+                            <div id="curve-chart" class="curve-viz">
+                                <!-- Bars will be injected here -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="advice-box glass">
+                        <h3>Assistant Strategic Advice</h3>
+                        <p id="assistant-text">Loading insights...</p>
+                        <div id="suggestions-list" class="chip-container">
+                            <!-- Cards will be injected here -->
+                        </div>
+                    </div>
 
                 <div class="deck-list-container glass">
                     <div class="list-header">
