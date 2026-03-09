@@ -1,0 +1,30 @@
+﻿                        
+ Usage: nlm chat        
+ [OPTIONS] COMMAND      
+ [ARGS]...              
+                        
+ Configure chat         
+ settings               
+                        
++- Options ------------+
+| --heà          Show  |
+|                this  |
+|                messà |
+|                and   |
+|                exit. |
++----------------------+
++- Commands -----------+
+| configure  Configure |
+|            how AI    |
+|            responds  |
+|            in        |
+|            notebook  |
+|            chat.     |
+| start      Start     |
+|            interactà |
+|            chat      |
+|            session   |
+|            with a    |
+|            notebook. |
++----------------------+
+

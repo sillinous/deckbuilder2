@@ -1,0 +1,31 @@
+﻿                        
+ Usage: nlm chat start  
+ [OPTIONS] NOTEBOOK_ID  
+                        
+ Start interactive chat 
+ session with a         
+ notebook.              
+                        
+ Enter a REPL where you 
+ can have multi-turn    
+ conversations.         
+ Use /help for          
+ commands, /exit to     
+ quit.                  
+                        
++- Arguments ----------+
+| *    nà      TE  Noà |
+|              XT  ID  |
+|                  [rà |
++----------------------+
++- Options ------------+
+| --à  -p      TE  Prà |
+|              XT  to  |
+|                  use |
+| --à              Shà |
+|                  thà |
+|                  meà |
+|                  and |
+|                  exà |
++----------------------+
+

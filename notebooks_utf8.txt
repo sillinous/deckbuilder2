@@ -1,0 +1,326 @@
+﻿[
+  {
+    "id": "cccb21cf-2fa0-4cd0-8523-b3dc433eb150",
+    "title": "Magic the Gathering",
+    "source_count": 70,
+    "updated_at": "2026-03-09T13:45:33Z"
+  },
+  {
+    "id": "da487a9f-0932-4b45-81f7-03eb93a39df2",
+    "title": "Building a Trading System",
+    "source_count": 107,
+    "updated_at": "2026-03-07T16:24:18Z"
+  },
+  {
+    "id": "c0a6bfca-62a2-492a-bf24-c19f446c3878",
+    "title": "Building a Breakout Trading Bot",
+    "source_count": 41,
+    "updated_at": "2026-02-27T22:25:11Z"
+  },
+  {
+    "id": "9ebe9486-844d-4f5a-aee9-62c02ba36f1d",
+    "title": "Spin-Orbit Symmetry in Advanced Silver Ionics",
+    "source_count": 65,
+    "updated_at": "2026-02-21T22:30:49Z"
+  },
+  {
+    "id": "5254b3fd-a238-4fa9-bdb0-2f64cfb3138b",
+    "title": "Post Labor Economics - Shapiro Sources",
+    "source_count": 31,
+    "updated_at": "2026-02-18T15:25:20Z"
+  },
+  {
+    "id": "eb920b21-60a4-4d21-a300-c90979227f86",
+    "title": "Unlocking Latent Value and Competitive Advantage through Strategic Insights",
+    "source_count": 113,
+    "updated_at": "2026-02-16T04:02:21Z"
+  },
+  {
+    "id": "a07fcff9-1cd5-428f-9de7-269b2e1d21db",
+    "title": "Autonomous Multi-Agent Ecosystem",
+    "source_count": 87,
+    "updated_at": "2026-02-11T16:19:01Z"
+  },
+  {
+    "id": "33e80786-c075-4368-b46c-43ff787341ec",
+    "title": "Engineering Professional AI Video Workflows with NotebookLM",
+    "source_count": 1,
+    "updated_at": "2026-02-09T14:19:56Z"
+  },
+  {
+    "id": "0eef8469-7519-4234-9c3f-863d4529d2d4",
+    "title": "Labor and the Looming Post-Work Economy",
+    "source_count": 51,
+    "updated_at": "2026-01-26T16:21:43Z"
+  },
+  {
+    "id": "ba162cc4-2355-486f-adb8-256a2e4d2d2c",
+    "title": "Universal High Income",
+    "source_count": 1,
+    "updated_at": "2026-01-26T14:53:04Z"
+  },
+  {
+    "id": "371b212c-d0f6-4198-870d-1891fbdab036",
+    "title": "Organizational Design and Architecture",
+    "source_count": 2,
+    "updated_at": "2026-01-26T14:40:18Z"
+  },
+  {
+    "id": "0e56bac6-ce5f-495a-8a5c-657ae8fb3b8f",
+    "title": "The AI Bubble Narrative: Evolution, Infrastructure, and Adoption Reality",
+    "source_count": 5,
+    "updated_at": "2026-01-26T13:52:32Z"
+  },
+  {
+    "id": "52705d8d-9bee-42e0-a335-c8402ce1ed3c",
+    "title": "Clawdbot",
+    "source_count": 3,
+    "updated_at": "2026-01-26T13:51:53Z"
+  },
+  {
+    "id": "ed03b9d1-4e15-430b-a31a-e2ff3a3da351",
+    "title": "Silicon Commons: AI, Data, and the Future of Labor",
+    "source_count": 20,
+    "updated_at": "2026-01-22T20:22:42Z"
+  },
+  {
+    "id": "14088161-639e-4b19-95e5-56fa657b579a",
+    "title": "Mastering Suno AI: The Complete Beginner's Handbook",
+    "source_count": 84,
+    "updated_at": "2026-01-19T21:26:50Z"
+  },
+  {
+    "id": "49f2fe5f-a7bc-42e9-8c42-839515d18941",
+    "title": "Mastering Generative Cinematography: A Guide to AI Video and Music",
+    "source_count": 47,
+    "updated_at": "2026-01-15T13:12:25Z"
+  },
+  {
+    "id": "bd8831d6-af22-451b-8fc5-2b93abeda1b8",
+    "title": "Cultivating Wealth: The Most Profitable Specialty Crops and Methods",
+    "source_count": 29,
+    "updated_at": "2026-01-09T16:55:04Z"
+  },
+  {
+    "id": "8ffed894-01d0-4d3f-a3fd-8b86b55b3a43",
+    "title": "The Higgsfield AI Cinematic Production Blueprint",
+    "source_count": 1,
+    "updated_at": "2026-01-02T03:44:02Z"
+  },
+  {
+    "id": "44a0982a-0053-4084-8a9c-0e52cd12215e",
+    "title": "Essential Tools for AI Video Production",
+    "source_count": 2,
+    "updated_at": "2026-01-01T01:55:47Z"
+  },
+  {
+    "id": "abb8b5dd-2703-4fa7-af45-5e4eba0b0525",
+    "title": "Future of AI",
+    "source_count": 45,
+    "updated_at": "2026-01-01T00:03:26Z"
+  },
+  {
+    "id": "19fdf6bd-1975-40a3-9801-c554130bc64a",
+    "title": "Globalisation since 1997",
+    "source_count": 26,
+    "updated_at": "2025-12-28T15:59:24Z"
+  },
+  {
+    "id": "9d4b0a2f-dce2-4391-a397-037ace71bf1b",
+    "title": "Google Gemini FULL COURSE 3 HOURS (Build & Automate Anything)",
+    "source_count": 1,
+    "updated_at": "2025-12-23T00:37:57Z"
+  },
+  {
+    "id": "fde5eadd-7b5b-40cb-84b1-a69d16e5ca17",
+    "title": "",
+    "source_count": 0,
+    "updated_at": "2025-12-23T00:37:29Z"
+  },
+  {
+    "id": "9b7f5234-cb9d-437f-bb82-5ea561071fce",
+    "title": "Smart Water Heaters: Applied Math for Energy Savings",
+    "source_count": 1,
+    "updated_at": "2025-11-25T16:43:13Z"
+  },
+  {
+    "id": "370155c4-2e36-4243-b3b2-fbb57d2cdc43",
+    "title": "Designing Evolutionary Agentic Crypto Trading Platforms",
+    "source_count": 1,
+    "updated_at": "2025-11-25T12:11:26Z"
+  },
+  {
+    "id": "59fecb09-5f6a-4516-b372-99d43a4d6eec",
+    "title": "RD Grant Programs - Illinois Farm Bureau",
+    "source_count": 50,
+    "updated_at": "2025-11-24T12:22:45Z"
+  },
+  {
+    "id": "b4c0dc5c-18ec-4d8b-b923-2d6d6482780d",
+    "title": "FinCon: Multi-Agent Neural Networks for Algorithmic Trading in MQL5",
+    "source_count": 29,
+    "updated_at": "2025-11-24T12:02:45Z"
+  },
+  {
+    "id": "1c743fb6-b3d2-4b4f-9f33-42d95a151842",
+    "title": "Architectures, Protocols, and Governance of Agentic AI Systems",
+    "source_count": 50,
+    "updated_at": "2025-11-24T11:58:17Z"
+  },
+  {
+    "id": "42149ca9-993d-48ac-aba9-3f90e4e4245c",
+    "title": "MiningTrades",
+    "source_count": 40,
+    "updated_at": "2025-11-24T11:52:56Z"
+  },
+  {
+    "id": "273ca862-38af-41b9-92d4-4eda15966b1e",
+    "title": "Grant Writer and Automation Assistant Platform",
+    "source_count": 1,
+    "updated_at": "2025-11-18T12:28:46Z"
+  },
+  {
+    "id": "fafc80c4-27c6-4edf-8a1d-491e36dbf033",
+    "title": "",
+    "source_count": 0,
+    "updated_at": "2025-11-05T16:04:24Z"
+  },
+  {
+    "id": "6a8402fc-373e-4935-8012-5369033ae142",
+    "title": "",
+    "source_count": 0,
+    "updated_at": "2025-11-05T15:36:41Z"
+  },
+  {
+    "id": "1260852d-ef6d-4844-bc3f-89c5bafe8deb",
+    "title": "Small Farm Allocation and Enterprise Model",
+    "source_count": 50,
+    "updated_at": "2025-10-15T15:51:13Z"
+  },
+  {
+    "id": "66a47aca-97e8-49e8-8489-82c5a65eacd7",
+    "title": "Economics of Bee Keeping Pollination Services",
+    "source_count": 50,
+    "updated_at": "2025-10-07T02:48:09Z"
+  },
+  {
+    "id": "8ed9de84-38cc-489b-8067-1fa12113cb7d",
+    "title": "",
+    "source_count": 0,
+    "updated_at": "2025-10-06T16:06:41Z"
+  },
+  {
+    "id": "7cdb59c4-b734-4c4b-978d-fa5494f022ae",
+    "title": "Bee Health Grant Funding and Commercialization Ecosystem",
+    "source_count": 4,
+    "updated_at": "2025-10-06T16:05:32Z"
+  },
+  {
+    "id": "4d037c7e-207f-4579-9b6d-ca051c4fdf42",
+    "title": "U of I - Local Food Systems and Small Farms",
+    "source_count": 50,
+    "updated_at": "2025-10-05T01:03:19Z"
+  },
+  {
+    "id": "499d7a3f-909e-4b54-9439-d4a40de321f8",
+    "title": "Current Projects and Efforts",
+    "source_count": 4,
+    "updated_at": "2025-10-03T14:21:33Z"
+  },
+  {
+    "id": "0d5cd576-2583-4835-8848-a5b7b6a97cea",
+    "title": "Trends in Health, Wealth and Happiness",
+    "source_count": 24,
+    "updated_at": "2025-10-01T21:22:51Z"
+  },
+  {
+    "id": "2c083356-3ad1-47f0-bb22-68bec376db82",
+    "title": "Equity Agriculture Programs, etc.",
+    "source_count": 50,
+    "updated_at": "2025-10-01T21:22:51Z"
+  },
+  {
+    "id": "19bde485-a9c1-4809-8884-e872b2b67b44",
+    "title": "William Shakespeare: The Complete Plays",
+    "source_count": 45,
+    "updated_at": "2025-09-30T22:01:40Z"
+  },
+  {
+    "id": "780a38ee-d0a6-4fb1-b255-aa03c8d67dce",
+    "title": "Secrets of the Super Agers",
+    "source_count": 17,
+    "updated_at": "2025-09-30T21:26:02Z"
+  },
+  {
+    "id": "5881d15d-7b82-4002-8613-df59b6eece4c",
+    "title": "The World Ahead 2025",
+    "source_count": 70,
+    "updated_at": "2025-09-30T20:48:11Z"
+  },
+  {
+    "id": "1dac617b-c2a5-4d53-b947-7319671ff6b9",
+    "title": "University of Illinois Featured Research Funding Opportunities",
+    "source_count": 50,
+    "updated_at": "2025-09-30T20:47:31Z"
+  },
+  {
+    "id": "204a5296-2e86-470d-864d-c85573d9822d",
+    "title": "WebSync: www.skool.com",
+    "source_count": 0,
+    "updated_at": "2025-09-30T01:50:33Z"
+  },
+  {
+    "id": "461e44da-ec8b-4299-9407-a2cd3be6252c",
+    "title": "WebSync: www.eda.gov (2)",
+    "source_count": 0,
+    "updated_at": "2025-09-29T20:17:26Z"
+  },
+  {
+    "id": "4ca6932f-dbfa-4a7e-8152-96397b979f55",
+    "title": "WebSync: www.eda.gov",
+    "source_count": 0,
+    "updated_at": "2025-09-29T20:16:52Z"
+  },
+  {
+    "id": "e5700d05-eb83-45fb-996a-879731e1f072",
+    "title": "United States Department of Agriculture Agencies and Functions",
+    "source_count": 1,
+    "updated_at": "2025-09-28T01:37:05Z"
+  },
+  {
+    "id": "187e0805-9b62-4ebd-8fc3-a67cfe08c365",
+    "title": "",
+    "source_count": 0,
+    "updated_at": "2025-09-27T11:30:56Z"
+  },
+  {
+    "id": "0f29c59d-8a53-4a80-99d2-e891bfeb5789",
+    "title": "IL Dept of Agriculture",
+    "source_count": 50,
+    "updated_at": "2025-09-23T13:46:51Z"
+  },
+  {
+    "id": "0a585cc4-9b58-4dbc-81f0-24576ca7a44b",
+    "title": "",
+    "source_count": 0,
+    "updated_at": "2025-08-26T05:54:35Z"
+  },
+  {
+    "id": "5e01f934-3c78-44b1-8df8-9f2fb795af7f",
+    "title": "Shinefy - The Online Marketing Guru",
+    "source_count": 4,
+    "updated_at": "2025-03-20T11:45:32Z"
+  },
+  {
+    "id": "965328a6-4cfa-4840-abe3-001be3d90dfc",
+    "title": "Background Knowledge and Experience - Documentation Notebook DUMP ALL DATA HERE",
+    "source_count": 37,
+    "updated_at": "2025-03-20T11:45:06Z"
+  },
+  {
+    "id": "f7579a6a-a8c1-4ad2-be33-8694059ee43c",
+    "title": "Various Documents - AI + Business",
+    "source_count": 12,
+    "updated_at": "2025-03-20T11:44:05Z"
+  }
+]
